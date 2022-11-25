@@ -1,0 +1,9 @@
+<resources>
+       <string name="app_name">My Second Practical Work</string>
+        <string name="Hello_world_text">Движение - жизнь</string>
+        <string name="Button">Меню</string>
+        <string name="textViewLable">Разделы</string>
+        <string name="button_schedule">Расписание</string>
+        <string name="button_plan">План</string>
+
+    </resources>
